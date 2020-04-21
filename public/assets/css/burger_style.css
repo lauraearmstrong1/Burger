@@ -11,8 +11,10 @@ body {
 
 button {
     background-color: blue;
+    color: white;
 }
 
 img {
-    background-color: navajowhite !important;
+    height: 200px;
+
 }
