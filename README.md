@@ -12,4 +12,4 @@ Deploy using Heroku
 
 ## Image of Deployed Burger App
 
-![Image of Deployed Burger App](public/assets/img/Burger_deployed.JPEG)
+![Image of Deployed Burger App](public/assets/img/Burger_deployed.JPG)
