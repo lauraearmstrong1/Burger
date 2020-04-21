@@ -9,23 +9,21 @@
 
 
 
-{{!-- <ul>
-  {{#each cats}}
+<ul>
+  {{#each burgers}}
     {{#unless sleepy}}
-      {{> cats/cat-block sleep=true}}
+      {{> burgers/burger-block sleep=true}}
     {{/unless}}
   {{/each}}
 </ul>
 
-<h2>Cats that are sleepy!</h2>
-
 <ul>
-  {{#each cats}}
+  {{#each burgers}}
     {{#if sleepy}}
-      {{> cats/cat-block sleep=false}}
+      {{> burgers/burger-block sleep=false}}
     {{/if}}
   {{/each}}
-</ul> --}}
+</ul>
 
 <h2>Add a Burger</h2>
 <form class="create-form">
